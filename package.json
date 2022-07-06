@@ -1,0 +1,24 @@
+{
+  "name": "discordscamban",
+  "version": "1.0.0",
+  "description": "Ban users by username such as the `Hype Message` scam.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Starystars67/DiscordScamBan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Starystars67/DiscordScamBan/issues"
+  },
+  "homepage": "https://github.com/Starystars67/DiscordScamBan#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1"
+  }
+}
